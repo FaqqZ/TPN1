@@ -4,4 +4,4 @@ console.log('Soy Pro');
 
 let mensaje = 'Esto es un mensaje'
 
-console.log(mensaje)
+console.log(mensaje);
