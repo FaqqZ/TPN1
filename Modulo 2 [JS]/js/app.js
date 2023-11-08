@@ -10,4 +10,4 @@ const numerazo = 999
 
 console.log(numerazo)
 
-alert('Mi nombre es RICARDO')
+alert('Mi nombre es RICARDO');
